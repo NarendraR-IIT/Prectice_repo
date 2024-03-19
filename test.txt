@@ -4,3 +4,4 @@ main, changes need to be merged from NewMain branch
 
 main, changes need to be merged in main branch
 
+VS2019
