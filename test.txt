@@ -10,6 +10,6 @@ second changes
 
 third changes
 fourth
-fifth test conflict SIX
+fifth test conflict SIX seven
 
 VS2019
