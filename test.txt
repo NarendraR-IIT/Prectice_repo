@@ -6,4 +6,6 @@ main, changes need to be merged in main branch
 
 changes in newmain
 
+second changes
+
 VS2019
